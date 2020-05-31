@@ -1,0 +1,2 @@
+This is where the ground station code lives
+The ground station is a bit of a question mark right now but may be used for remote control and monitoring

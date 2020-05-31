@@ -1,0 +1,2 @@
+This is where all of the raspi code lives.
+The raspi is the actual brainbox of the operation and sends commands to the arduino over ros serial.
